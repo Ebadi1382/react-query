@@ -1,9 +1,11 @@
+import UseQuery from "../components/UseQuery";
+
 const page = () => {
   return (
-    <div>
-      Enter
-    </div>
+    <>
+      <UseQuery />
+    </>
   );
-}
+};
 
 export default page;
