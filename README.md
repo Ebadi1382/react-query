@@ -1,4 +1,5 @@
 # Project Name
+React Query
 
 ## Overview
 Provide a brief description of your project. This section should explain the purpose, goals, and main functionalities of your project.
